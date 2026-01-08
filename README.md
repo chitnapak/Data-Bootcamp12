@@ -4,6 +4,7 @@
 
 * Google Sheets
 * SQL
+* R
 * Python
 * Essential Statistics
 * Essential Machine Learning
